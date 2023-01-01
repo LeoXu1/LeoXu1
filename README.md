@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Leo, a aspiring software engineer. I'm from Atlanta, GA metropolitan area. I enjoy using my programming skills in Javascript, React, Java, and Python to make games. I am interested in web development, but I am open to opportunities across the field. I am a fast learner and enjoy learning new technologies and frameworks through hands-on experimentation. 
+I'm Leo, a aspiring software engineer. I'm from the Atlanta, GA metropolitan area. I enjoy using my programming skills in Javascript, React, Java, and Python to make games. I am interested in web development, but I am open to opportunities across the field. I am a fast learner and enjoy learning new technologies and frameworks through hands-on experimentation.
 
 [LinkedIn](https://www.linkedin.com/in/leoxu1/)
 
