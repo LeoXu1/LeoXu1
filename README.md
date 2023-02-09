@@ -7,5 +7,5 @@ I'm Leo, a aspiring software engineer. I'm from the Atlanta, GA metropolitan are
 Here is one of the games I made: [Check it out!](https://leoxu1.github.io/cityfinder)
 
 - 🔭 I’m currently working on... honing my programming skills and adding features to my games
-- 🌱 I’m currently learning... Express.js
+- 🌱 I’m currently learning... Responsive web design
 - 📫 How to reach me: leo.xu.64@gmail.com
